@@ -1,1 +1,1 @@
-# fanduChallenge
+# fanduChallengeAndroidAppPrivacyPolicy
